@@ -17,7 +17,7 @@ print hijau+"name : tools installer\n\n"
 
 #new
 print "[1]. Install darktools"
-print "[2]. Install Send SMS Gratis"
+print "[2]. Install Ngoding"
 
 inp = raw_input("dipilih gayn:")
 if inp == "1":
